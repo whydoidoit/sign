@@ -1,0 +1,19 @@
+{
+  "name": "whydoidoit-sign",
+  "version": "1.0.0",
+  "description": "Polyfill for Math.sign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/sign.git"
+  },
+  "author": "Mike Talbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/sign/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/sign#readme"
+}
